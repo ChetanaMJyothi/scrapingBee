@@ -1,0 +1,74 @@
+.btnOfLinks {
+    text-align: center;
+    margin: 50px;
+}
+.eachLink {
+    text-decoration: none;
+    color: black;
+    border: 1px solid black;
+    padding: 5px;
+    background-color: #7895CB;
+    margin: 10px;
+    border-radius: 5px;
+    font-size: 18px;
+    transition: all 0.3s ease;
+}
+
+.active_cls {
+    background-color: #4A55A2;
+    text-decoration: none;
+    color: whitesmoke;
+    border: 1px solid black;
+    padding: 5px;
+    margin: 10px;
+    border-radius: 5px;
+    font-size: 18px;
+}
+
+a.active {
+    background-color: #4A55A2;
+}
+
+.eachLink:hover {
+    background-color: #4A55A2;
+}
+
+.form_sec {
+    text-align: center;
+
+    margin: 30px;
+}
+
+.input_field {
+    border-radius: 5px;
+    width: 300px;
+    height: 35px;
+    font-size: 25px;
+    background-color: #A0BFE0;
+    border: 1 px solid #7895CB;
+
+
+}
+
+.h1_tag {
+    margin: 20px;
+    color: #1a2259;
+    text-align: center;
+}
+
+.submit_btn {
+    display: inline;
+    border: none;
+    background-color: #4A55A2;
+    border: 1 px solid #7895CB;
+    height: 35px;
+    margin-left: 10px;
+    color: aliceblue;
+    font-size: 25px;
+    border-radius: 5px;
+    text-align: center;
+
+}
+.my_name{
+    text-align: center;
+}
